@@ -1,0 +1,13 @@
+.navbar{
+    background-color: rgba(127, 255, 212, 0.726);
+}
+
+.navbarItem{
+    margin: 10px;
+    padding: 5px;
+    display: inline-block;
+}
+
+.logo{
+    margin-right: 70px;
+}
